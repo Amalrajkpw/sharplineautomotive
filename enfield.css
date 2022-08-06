@@ -1,0 +1,452 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+font-family: 'Roboto', sans-serif;
+
+}
+  body{
+   margin:0;
+   padding:0;
+   background: #f8f9fa;
+  }
+  
+  .header{
+   height:85px;
+   width:100%;
+   background: black;
+   
+   
+   
+  }
+  .logo{
+   height:70px;
+   width:300px;
+   padding-left:50px;
+   float:left;
+   
+   
+  }
+  .logoimage{
+   height:80px;
+   width:180px;
+   margin-left:30px;
+   float: left;
+
+  }
+   .menu{
+      width:400px;
+      height:70px;
+      float:left;
+      
+      
+      margin-left:110px;
+      margin-top:20px
+   }
+   ul{
+      float:left;
+      display:flex;
+      
+      
+   }
+   ul li{
+      list-style: none;
+      margin-left:40px;
+      
+ }
+ul li a{
+   text-decoration: none;
+   font-family: guardiansans-medium;
+   
+   color:white;
+}
+ul li a:hover{
+   color:red;
+}
+ 
+.selectionbox{
+   height:40px;
+   width:220px;
+   background:rgb(6, 6, 6);
+   float:left;
+   margin-left: 900px;
+   margin-top:-75px;
+   padding-top:29px;
+   padding-bottom:10px;
+   margin-bottom:20px;
+
+
+}   
+.loginfont{
+   font-size: medium;
+   float:left;
+   color:white;
+   margin-bottom:30px;
+   margin-left:10px;
+   cursor: pointer;
+
+}
+.dropimage{
+   width:20px;
+   height:20px;
+   margin-top:20px;
+   float:left;
+   margin-left:10px;
+   cursor: pointer;
+}
+.searchimage{
+   width:25px;
+   height:25px;
+   margin-top:18px;
+   float:left;
+   margin-left:10px; 
+   margin-bottom:29px;
+   cursor: pointer;
+
+}
+.indiaimg{ width:30px;
+   height:20px;
+   margin-top:20px;
+   float:left;
+   margin-left:10px
+   
+}
+.enfont{
+   font-size: medium;
+   float:left;
+   color:white;
+   margin-bottom:30px;
+   margin-left:10px;
+   margin-top:20px;
+   cursor: pointer;
+
+}
+ .secondtop{
+   height:100px;
+   width:100%;
+   background:#212529;
+   margin-top: -20px;
+ }
+ .lastdivtext{
+   color: white;
+ }
+ .secondtop1{
+   height:100px;
+   width:500px;
+   background:#212529;
+   
+
+ }
+ .fontsharpline{
+   font-weight: bold;
+   margin-left:50px;
+   margin-top:10px;
+   color: white;
+   
+ }
+ .seconddiv2{
+   height:20px;
+   width:500px;
+   background:#212529;
+   float:left;
+                                                                    
+ }
+ .homesymbol{
+   height:20px;
+   width:20px;
+   margin-left:10px;
+   float:left;
+   margin-top:10px; 
+ }
+ .seconddiv2font{
+   font-size: medium;
+float:left;
+color:white;
+font-weight: bold;
+float:left;
+margin-left:10px
+ }
+ .secondtop2{
+height:80px;
+width:250px;
+float: left;
+
+margin-left:1300px;
+margin-top:-70px
+ }
+ .firstbutton{
+   
+   text-align: center;
+   display:table-cell;
+   vertical-align:middle;
+   background-color:#d1291c;
+border: none;
+color: white;
+padding:15px 40px;
+cursor: pointer;
+font-weight: bolder;
+font-size:large
+}
+.mainimagediv{
+   height:600px;
+   width:100%;
+   
+
+}
+.mainimage{
+   height:600px;
+   width:100%;
+
+}
+
+.adressdiv{
+   height:350px;
+   width:100%;
+
+   margin-top:-60px;
+}
+.adressdiv1{
+   height:100px;
+   width:600px;
+padding-top: 40px;
+   
+}
+.adressdiv2{
+   height:200px;
+   width: 400px;
+   
+   float:left;
+   margin-left:-500px;
+}
+.adressdiv3{
+   height:200px;
+   width:400px;
+   
+float:left;
+   
+}
+.sharpline{
+   
+   color:rgb(4, 4, 4);
+   margin-left:30px;
+   float: left;
+   margin: top 10px;
+}
+.ratingstar{
+   height:40px;
+   width:150px;
+   margin-top:25px;
+   margin-left:20px;
+   float:left;
+}
+#ratingtext{
+   margin-left: 20px;
+   color:rgb(10, 10, 10);
+   float:left;
+   margin-bottom: 69px;
+}
+.callimg{
+   height:20px;
+   width:20px;
+   float:left;
+}
+.emailimg{
+   height:20px;
+   width:20px;
+   float:left;
+}
+.rideout{
+   width:100%;
+   height:100px;
+   
+}
+.rideouts{
+   text-align: center;
+   font-weight: bold;
+}
+.rideoutpictures{
+   height:1000px;
+   width:100%;
+   
+
+}
+.picture1{
+   height:470px;
+   width:470px;
+   
+   float:left;
+   margin-left:40px;
+}
+.picture2{
+   height:470px;
+   width:470px;
+   
+   float:left;
+   margin-left:40px;
+}
+
+.picture3{
+   height:470px;
+   width:470px;
+   
+   float:left;
+   margin-left:40px;}
+
+.picture4{
+   height:470px;
+   width:470px;
+   
+   float:left;
+   margin-left:40px;
+   margin-top:40px;
+}
+.ridepicture1{
+   height:350px;
+   width:450px;
+
+}
+.fontnewyear{
+   margin-top:0;
+}
+.thirdbutton{
+   
+border: black;
+   border: 5px;
+   background-color:#e4dcdc;
+border: none;
+color: rgb(4, 2, 2);
+padding:7px 20px;
+cursor: pointer;
+font-weight: bolder;
+font-size:medium;
+margin-top:-10px;
+margin-left: 20px;
+}
+.ridepicture2{
+   height:350px;
+   width:450px;
+}
+.fourthbutton{
+   
+   border: black;
+      border: 5px;
+      background-color:#e4dcdc;
+   border: none;
+   color: rgb(4, 2, 2);
+   padding:7px 20px;
+   cursor: pointer;
+   font-weight: bolder;
+   font-size:medium;
+   margin-top:-10px;
+   margin-left: 20px;}
+
+   .caferide1{
+      margin-top:0;
+   }
+   .learnmore{
+      height:30px;
+      width:100%;
+      background:#f8f9fa
+   }
+   .learnmoretext{
+      text-align: center;
+     cursor: pointer;
+   }
+   .reviews{
+      height:350px;
+      width:100%;
+      
+    }
+    .reviewimage{
+      height:300px;
+      width:40%;
+      
+      float:left;
+      margin-left: 150px;
+    }
+    .reviewdescription{
+      height:300px;
+      width:50%;
+      
+      float: left;
+      margin-top:30px
+    }
+    .reviewsectionimg{
+      height:150px;
+      width:150px;
+      margin-left:250px;
+      margin-top: 70px;
+    }
+    .prajwalfont{
+margin-left:260px;
+    }
+    .secondreviewstar{
+      height:30px;
+      width:80px;
+      margin-left: 280px;
+      margin-top :-10px;
+    }
+    .reviewfont6months{
+      margin-left:275px;
+      margin-top:-10px
+    }
+    .reviewmaintext{
+      height:30px;
+      width:100%;
+      
+      text-align: center;
+    }
+    .reviewdescriptiontext{
+      margin-top:70px;    
+      font-weight: bold;
+   }
+   .morereviews{
+      height:30px;
+      width:100%;
+      
+   }
+.morereviewbutton{
+   margin-left: 700px;
+   padding:7px 20px;
+   font-weight: bold;
+   border-color: black;
+}
+.formimagediv{
+   height:800px;
+   width:100%px;
+   background: red;
+
+   margin-top:20px;
+}
+.formdiv{
+   height: 780px;
+   width:90%;
+   
+   padding-top: 30px;
+   margin-left: 50px;
+   margin-top:-800px
+   
+}
+.personaldetails{
+   height:100px;
+   width:1300px;background:rgb(15, 179, 29);
+   margin-left:0px;
+   margin-top:-30px ;
+   text-align:center
+   
+}
+.personaldetailstext{
+   color:white
+}
+.formalign{
+   padding:18px 180px;
+   border: 1px solid rgb(17, 14, 14);
+   font-size: large;
+   font-family:'Roboto', sans-serif;
+   margin-left:40px;
+   margin-bottom:30px;
+   text-align-last: left;
+   color:#212121;
+}
+.formimage{
+   height:800px;
+   width:100%;
+}
